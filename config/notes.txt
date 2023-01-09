@@ -1,0 +1,13 @@
+// Doc for insights
+
+1. Handlebars are like layouts where files can be inserted into w/ {{}}
+2. Middleware are functions that are performed before main function
+
+
+// Destructuring Syntax
+
+const obj = { a: 1, b: 2 };
+const { a, b } = obj;
+// is equivalent to:
+// const a = obj.a;
+// const b = obj.b;
